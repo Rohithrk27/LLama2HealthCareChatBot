@@ -1,5 +1,6 @@
 langchain
 torch
+langchain-community
 accelerate
 #bitsandbytes
 transformers
