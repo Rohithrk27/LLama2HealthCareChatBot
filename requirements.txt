@@ -2,6 +2,7 @@ langchain
 torch
 pypdf
 langchain-community
+ctransformers
 accelerate
 #bitsandbytes
 transformers
