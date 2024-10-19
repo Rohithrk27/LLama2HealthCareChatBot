@@ -1,5 +1,6 @@
 langchain
 torch
+pypdf
 langchain-community
 accelerate
 #bitsandbytes
